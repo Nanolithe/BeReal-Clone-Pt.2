@@ -4,6 +4,8 @@ Submitted by: Kevin Nguyen
 
 BeReal Clone Pt.2 is an app that is similar to the first version. The only differences are that you are able to take a picture with an IOS device. Images are also blurred until the user posts. 
 
+**NOTE:** GIF does not reflect functionality. Due to school Macs having outddated XCode versions. I was unable to really showcase the camera aspect on my own phone which is currently up to date with IOS 16. 
+
 Time spent: 5 hours spent in total
 
 ## Required Features
